@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scr_circularHP",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scr_circularHP",
+  "parent":{
+    "name":"Extencoes",
+    "path":"folders/Extencoes.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

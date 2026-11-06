@@ -8,8 +8,8 @@
   "name":"obj_controle_de_cena",
   "overriddenProperties":[],
   "parent":{
-    "name":"petVirtual",
-    "path":"petVirtual.yyp",
+    "name":"Controlers",
+    "path":"folders/Objetos/Controlers.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -19,8 +19,8 @@
   ],
   "name":"rm_menu_iniciar",
   "parent":{
-    "name":"petVirtual",
-    "path":"petVirtual.yyp",
+    "name":"Rooms",
+    "path":"folders/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

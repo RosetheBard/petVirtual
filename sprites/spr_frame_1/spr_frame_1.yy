@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"petVirtual",
-    "path":"petVirtual.yyp",
+    "name":"Assets",
+    "path":"folders/Assets.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
