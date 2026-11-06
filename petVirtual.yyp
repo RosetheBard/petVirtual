@@ -24,6 +24,7 @@
     {"id":{"name":"rm_creditos","path":"rooms/rm_creditos/rm_creditos.yy",},},
     {"id":{"name":"rm_main","path":"rooms/rm_main/rm_main.yy",},},
     {"id":{"name":"rm_menu_iniciar","path":"rooms/rm_menu_iniciar/rm_menu_iniciar.yy",},},
+    {"id":{"name":"spr_frame_1","path":"sprites/spr_frame_1/spr_frame_1.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
